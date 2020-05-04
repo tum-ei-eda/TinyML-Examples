@@ -13,3 +13,6 @@
 [submodule "TinyML-Graph-Example"]
 	path = TinyML-Graph-Example
 	url = git@github.com:tum-ei-eda/TinyML-Graph-Example.git
+[submodule "TinyML-CNN-Example"]
+	path = TinyML-CNN-Example
+	url = git@github.com:tum-ei-eda/TinyML-CNN-Example.git

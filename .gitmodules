@@ -1,0 +1,3 @@
+[submodule "TinyML-MNIST-Example"]
+	path = TinyML-MNIST-Example
+	url = https://github.com/tum-ei-eda/TinyML-MNIST-Example

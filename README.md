@@ -1,1 +1,46 @@
 # TinyML-Examples
+
+In this repository you will find a list of submodules that correspond to the following Tiny(M)achine(L)earning examples. 
+
+## Examples' status
+
+<!--
+    Shields:
+    Done - https://img.shields.io/badge/status-done-brightgreen
+    WIP - https://img.shields.io/badge/status-WIP-orange
+    Not started - https://img.shields.io/badge/status-TODO-red
+-->
+
+| Example        | Status           | Contact |
+| ------------- |:-------------:| :-------------:|
+| Sine (Hello World) | ![hai](https://img.shields.io/badge/status-done-brightgreen) | Alex|
+| MNIST | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex |
+| CIFAR10 | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
+| CNN | ![hai](https://img.shields.io/badge/status-WIP-orange) | Yu-Kai |
+| Graph | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
+| Face Recognition | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex/Teo |
+| KWS | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
+
+## Documentation/Notes
+
+### Sine/Hello World
+
+The colab notebook to generate the model is directly taken from the book [*TinyML*](https://www.amazon.de/-/en/TinyML-Learning-TensorFlow-Ultra-Low-Micro-Controllers/dp/1492052043/ref=sr_1_1?dchild=1&keywords=tinyml&qid=1588597546&sr=8-1) and the working implementation is for a STM3240G-EVAL development board.
+
+### MNIST
+
+The MNIST example is currently bottlenecked by a large RAM requirement, probably im2col.
+
+### CIFAR10
+
+### CNN
+
+### Graph
+
+### Face Recognition
+
+Bachelor thesis topic of Teo Fratiloiu.
+
+Building a data set was part of Teo's IP and led to the development of the [**webscrapper**](https://github.com/munober/webscrapper) which aims to automate the scrapping, validation and preprocessing of image datasets.
+
+### KWS

@@ -4,3 +4,6 @@
 [submodule "TinyML-Sine-Example"]
 	path = TinyML-Sine-Example
 	url = git@github.com:tum-ei-eda/TinyML-Sine-Example.git
+[submodule "TinyML-KWS-Example"]
+	path = TinyML-KWS-Example
+	url = git@github.com:tum-ei-eda/TinyML-KWS-Example.git

@@ -7,3 +7,6 @@
 [submodule "TinyML-KWS-Example"]
 	path = TinyML-KWS-Example
 	url = git@github.com:tum-ei-eda/TinyML-KWS-Example.git
+[submodule "TinyML-CIFAR10-Example"]
+	path = TinyML-CIFAR10-Example
+	url = git@github.com:tum-ei-eda/TinyML-CIFAR10-Example.git

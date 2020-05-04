@@ -10,3 +10,6 @@
 [submodule "TinyML-CIFAR10-Example"]
 	path = TinyML-CIFAR10-Example
 	url = git@github.com:tum-ei-eda/TinyML-CIFAR10-Example.git
+[submodule "TinyML-Graph-Example"]
+	path = TinyML-Graph-Example
+	url = git@github.com:tum-ei-eda/TinyML-Graph-Example.git

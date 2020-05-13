@@ -27,9 +27,13 @@ In this repository you will find a list of submodules that correspond to the fol
 
 The colab notebook to generate the model is directly taken from the book [*TinyML*](https://www.amazon.de/-/en/TinyML-Learning-TensorFlow-Ultra-Low-Micro-Controllers/dp/1492052043/ref=sr_1_1?dchild=1&keywords=tinyml&qid=1588597546&sr=8-1) and the working implementation is for a STM3240G-EVAL development board.
 
+Working implementation can be found [here](https://github.com/alxhoff/STM3240G-EVAL-TensorFlow-Hello-World).
+
 ### MNIST
 
 The MNIST example is currently bottlenecked by a large RAM requirement, probably im2col.
+
+Practical implementation is being constructed [here](https://github.com/alxhoff/STM3240G-EVAL-TensorFlow-MNIST).
 
 ### CIFAR10
 
@@ -42,5 +46,7 @@ The MNIST example is currently bottlenecked by a large RAM requirement, probably
 Bachelor thesis topic of Teo Fratiloiu.
 
 Building a data set was part of Teo's IP and led to the development of the [**webscrapper**](https://github.com/munober/webscrapper) which aims to automate the scrapping, validation and preprocessing of image datasets.
+
+Practical implementation is being constructed [here](https://github.com/alxhoff/STM3240G-EVAL-TensorFlow-TinyFace).
 
 ### KWS

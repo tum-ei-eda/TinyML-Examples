@@ -6,14 +6,15 @@ In this repository you will find a list of submodules that correspond to the fol
 
 <!--
     Shields:
-    Done - https://img.shields.io/badge/status-done-brightgreen
+    Online - https://img.shields.io/badge/status-online-brightgreen
+    Offline - https://img.shields.io/badge/status-offline-yellow
     WIP - https://img.shields.io/badge/status-WIP-orange
     Not started - https://img.shields.io/badge/status-TODO-red
 -->
 
 | Example        | Status           | Contact |
 | ------------- |:-------------:| :-------------:|
-| Sine (Hello World) | ![hai](https://img.shields.io/badge/status-done-brightgreen) | Alex|
+| Sine (Hello World) | ![hai](https://img.shields.io/badge/status-online-brightgreen)&![hai](https://img.shields.io/badge/status-offline-yellow)| Alex|
 | MNIST | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex |
 | CIFAR10 | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
 | CNN | ![hai](https://img.shields.io/badge/status-WIP-orange) | Yu-Kai |
@@ -28,6 +29,8 @@ In this repository you will find a list of submodules that correspond to the fol
 The colab notebook to generate the model is directly taken from the book [*TinyML*](https://www.amazon.de/-/en/TinyML-Learning-TensorFlow-Ultra-Low-Micro-Controllers/dp/1492052043/ref=sr_1_1?dchild=1&keywords=tinyml&qid=1588597546&sr=8-1) and the working implementation is for a STM3240G-EVAL development board.
 
 Working implementation can be found [here](https://github.com/alxhoff/STM3240G-EVAL-TensorFlow-Hello-World).
+
+Offline interpreter example can be found on the [`compiler`](https://github.com/alxhoff/STM3240G-EVAL-TensorFlow-Hello-World/tree/compiler) branch of the implementation repository.
 
 ### MNIST
 

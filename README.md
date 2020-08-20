@@ -16,6 +16,7 @@ In this repository you will find a list of submodules that correspond to the fol
 | ------------- |:-------------:| :-------------:|
 | Sine (Hello World) | ![hai](https://img.shields.io/badge/status-online-brightgreen)&![hai](https://img.shields.io/badge/status-offline-yellow)| Alex|
 | MNIST | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex |
+| Keyword | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex/Philipp |
 | CIFAR10 | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
 | CNN | ![hai](https://img.shields.io/badge/status-WIP-orange) | Yu-Kai |
 | Graph | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
@@ -37,6 +38,10 @@ Offline interpreter example can be found on the [`compiler`](https://github.com/
 The MNIST example is currently bottlenecked by a large RAM requirement, probably im2col.
 
 Practical implementation is being constructed [here](https://github.com/alxhoff/STM3240G-EVAL-TensorFlow-MNIST).
+
+### Keyword
+
+Wake word example from TinyML book. FP of Philipp van Kempen.
 
 ### CIFAR10
 

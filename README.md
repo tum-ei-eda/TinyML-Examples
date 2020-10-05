@@ -16,7 +16,7 @@ In this repository you will find a list of submodules that correspond to the fol
 | ------------- |:-------------:| :-------------:|
 | Sine (Hello World) | ![hai](https://img.shields.io/badge/status-online-brightgreen)&![hai](https://img.shields.io/badge/status-offline-yellow)| Alex|
 | MNIST | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex |
-| Keyword | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex/Philipp |
+| MicroSpeech | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex/Philipp |
 | CIFAR10 | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
 | CNN | ![hai](https://img.shields.io/badge/status-WIP-orange) | Yu-Kai |
 | Graph | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
@@ -39,9 +39,11 @@ The MNIST example is currently bottlenecked by a large RAM requirement, probably
 
 Practical implementation is being constructed [here](https://github.com/alxhoff/STM3240G-EVAL-TensorFlow-MNIST).
 
-### Keyword
+### MicroSpeech
 
 Wake word example from TinyML book. FP of Philipp van Kempen.
+
+Practical implementation for STM32F769 board.
 
 ### CIFAR10
 

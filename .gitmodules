@@ -19,3 +19,6 @@
 [submodule "TinyMl-Face-Recognition-Example"]
 	path = TinyMl-Face-Recognition-Example
 	url = git@github.com:tum-ei-eda/TinyMl-Face-Recognition-Example.git
+[submodule "TinyML-MicroSpeech-Example"]
+	path = TinyML-MicroSpeech-Example
+	url = https://github.com/tum-ei-eda/TinyML-MicroSpeech-Example.git

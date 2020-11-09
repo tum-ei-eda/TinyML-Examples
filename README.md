@@ -15,8 +15,8 @@ In this repository you will find a list of submodules that correspond to the fol
 | Example        | Status           | Contact |
 | ------------- |:-------------:| :-------------:|
 | Sine (Hello World) | ![hai](https://img.shields.io/badge/status-online-brightgreen)&![hai](https://img.shields.io/badge/status-offline-yellow)| Alex|
-| MNIST | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex |
-| MicroSpeech | ![hai](https://img.shields.io/badge/status-WIP-orange) | Alex/Philipp |
+| MNIST |  ![hai](https://img.shields.io/badge/status-online-brightgreen)&![hai](https://img.shields.io/badge/status-offline-yellow) | Alex/Philip |
+| MicroSpeech |  ![hai](https://img.shields.io/badge/status-online-brightgreen)&![hai](https://img.shields.io/badge/status-offline-yellow) | Alex/Philipp |
 | CIFAR10 | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
 | CNN | ![hai](https://img.shields.io/badge/status-WIP-orange) | Yu-Kai |
 | Graph | ![hai](https://img.shields.io/badge/status-TODO-red) | - |
